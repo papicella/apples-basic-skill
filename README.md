@@ -18,5 +18,11 @@ set -euo pipefail
 date
 ```
 
+## “Packaging” for someone else
+
+1. Zip or share the folder that contains SKILL.md + scripts/.
+2. They unpack to ~/.cursor/skills/apples-basic-skill/ on their machine (same layout).
+3. If their home path differs, $HOME in the instructions still works.
+
 Created By Pas
 
